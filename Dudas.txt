@@ -1,0 +1,9 @@
+-En que pagina va a estar alojada la aplicacion? mtyss
+-inicia con registro/actualizacion (Seria el formulario?)
+-emision dereportes/estadisticas (lo hacemos nosotros?)
+-de que lado lo hacemos? del interno y del representante de la entidad tmb? le llega el formulario solamente al representante?
+-Representante legal,usuario ineterno , alguien dentro del ministerio ?
+-Usuario interno , usuario legal quien es quien?
+-representante legal, va a ser todo en funcion del representante legal? o hay que hacer un formulario para el usuario interno?
+login ,usuario, perfil permiso, formulario
+
